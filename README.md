@@ -49,11 +49,11 @@ print(x)
 ## Output:
 ![lu decomposition]()
 
-# To print L and U matrix
+### To print L and U matrix
 
 ![output](<Screenshot 2024-04-24 165900.png>)
 
-# To print X matrix (solution to the equations)
+#### To print X matrix (solution to the equations)
 
 ![output](<Screenshot 2024-04-24 165918.png>)
 
