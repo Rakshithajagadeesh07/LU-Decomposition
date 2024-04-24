@@ -18,10 +18,8 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 ```
-/*
 Program to find the L and U matrix.
 Developed by: RAKSHITHA J
-
 RegisterNumber: 212223240135
 
 # To print L and U matrix
@@ -31,14 +29,11 @@ a=np.array(eval(input()))
 p,l,u=lu(a)
 print(l)
 print(u)
-*/
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
 Program to find the LU Decomposition of a matrix.
 Developed by: RAKSHITHA J
-
 RegisterNumber: 212223240135
 
 # To print X matrix (solution to the equations)
@@ -49,7 +44,6 @@ b=np.array(eval(input()))
 lu,piv=lu_factor(a)
 x=lu_solve((lu,piv),b)
 print(x)
-*/
 ```
 
 ## Output:
